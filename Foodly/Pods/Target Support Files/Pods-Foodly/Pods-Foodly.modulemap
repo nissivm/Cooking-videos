@@ -1,0 +1,6 @@
+module Pods_Foodly {
+  umbrella header "Pods-Foodly-umbrella.h"
+
+  export *
+  module * { export * }
+}
