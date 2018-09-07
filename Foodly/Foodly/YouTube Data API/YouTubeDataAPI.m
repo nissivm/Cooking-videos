@@ -559,7 +559,7 @@ static NSString *nextVideosPageToken;
 
 - (NSString *)getApiKey
 {
-    return @"AIzaSyBYotLt5WyG3yWqFgphKmJl2qunO-T7TiY";
+    return @"Your YouTube API key";
 }
 
 @end
